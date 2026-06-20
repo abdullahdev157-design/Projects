@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.card{
+  display:flex;
+  justify-content:space-between;
+  width:150px;
+  height:100px;
+  background-color:skyblue;
+  padding:10px;
+  border-radius:10px;
+  box-shadow:2px 2px 2px inset black;
+
+}
+  
+#playing-cards{
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+  justify-content:center;
+  font-size:1.5rem;
+  margin-top:22px;
+
+}
+.left{
+  align-self:flex-start;
+}
+.middle{
+  align-self:center;
+  display:flex;
+  flex-direction:column;
+  text-align:center;
+  text-shadow:1px 1px 1px black;
+}
+.right{
+  align-self:flex-end;
+}
+
+
+  
+
