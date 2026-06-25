@@ -7,34 +7,6 @@
   max-width:100%;
   height:auto;
   border:3px solid black;
-  border-radius:60%;
-  outline:3px solid green;
-  box-shadow:3px 4px 4px black;
-}
-.link{
-   background:rgb(213, 228, 237);
-  padding:12px;
-  border-radius:23px;
-  margin-top:10px;
-  margin-bottom:12px;
-}
-
-
-
-h2{
-    padding-bottom:12px;
-    text-decoration:underline;
-}
-#tribute-link{
-  display:flex;
-  gap:20px;
-  margin:12px;
-  text-decoration:none;
-
-}
-#tribute-info{
-   background:rgb(213, 228, 237);
-  padding:12px;
   border-radius:23px;
   margin-top:10px;
 }
